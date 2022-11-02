@@ -77,6 +77,7 @@ h1 {
 }
 img {
   width: 150px;
+  filter: drop-shadow(0 0 0.75rem crimson);
 }
 /* CSS */
 .button-85 {
